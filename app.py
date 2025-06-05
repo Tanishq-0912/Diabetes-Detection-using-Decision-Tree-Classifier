@@ -5,7 +5,7 @@ import pickle
 import joblib
 
 # Load the trained model
-model = joblib.load("dt_model.pkl")
+dt_model = joblib.load("dt_model.pkl")
 
 st.set_page_config(page_title="Diabetes Prediction App", layout="centered")
 st.title("🩺 Diabetes Prediction App")
