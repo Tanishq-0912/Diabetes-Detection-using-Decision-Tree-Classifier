@@ -1,0 +1,1 @@
+This is a diabetes detection model used data handling , data cleaning and perform data modeling and bhuilt a model which can tell you the person have a diabetes symptoms or not and deploy through Streamlit.
